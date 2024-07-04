@@ -3,6 +3,12 @@
 ## Project Overview
 The Super Tic Tac Toe Battle Glow project aims to create an engaging online multiplayer version of the classic Tic Tac Toe game with added features and a neon-themed interface. The goal is to provide users with a visually appealing and entertaining gaming experience.
 
+## Project members
+1. Luckman Qasim
+2. Tanaya Siddiqui
+3. Ben Avery
+4. Muhammed Patel
+
 ## Installation
 To install and run the project locally, follow these steps:
 1. Clone the repository from GitHub. `https://github.com/CS2005W24/term-project-teamj.git`
